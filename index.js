@@ -1,6 +1,6 @@
 const moment = require('moment')
 
-
+export NODE_PATH=/opt/lib/node_modules
 
 module.exports.ready = false;
 module.exports.message = false;
